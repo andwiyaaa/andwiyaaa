@@ -37,3 +37,27 @@
 </a>
 
 </div>
+
+<br>
+
+<hr>
+
+<h3 align="center">this is me</h3>
+
+<p>
+  hi! i'm <b>andrea</b> — an information technology graduate interested in
+  <b>data analytics</b>, <b>cloud computing</b>, and <b>IT systems</b>.
+</p>
+
+<p>
+  i like working with data, figuring out how systems work, troubleshooting
+  technical problems, and turning information into something useful.
+</p>
+
+<ul>
+  <li>📊 exploring data analytics with SQL, Excel, Power BI, and Tableau</li>
+  <li>☁️ building my cloud foundation through AWS re/Start</li>
+  <li>🔐 currently exploring cybersecurity and security operations</li>
+  <li>🛠️ interested in systems, technical support, QA, and troubleshooting</li>
+  <li>💻 building projects and documenting what i learn along the way</li>
+</ul>
