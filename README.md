@@ -4,7 +4,17 @@
 
 ### `data` · `cloud` · `it`
 
-BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
+**Aspiring Data Analyst** · **AWS re/Start Scholar**
+
+<br>
+
+<a href="https://github.com/andwiyaaa">
+  <img src="https://img.shields.io/badge/GitHub-andwiyaaa-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -12,17 +22,58 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 
 ---
 
-## 🧑‍💻 about me
+<div align="center">
 
-- 📊 Interested in **Data Analytics & Business Intelligence**
-- ☁️ Currently building my foundation in **AWS & Cloud Computing**
-- 🛠️ Experienced in **IT support, troubleshooting, and system documentation**
-- 🧪 Familiar with **QA testing, data validation, and software testing**
-- 🎓 BS Information Technology — **Technological University of the Philippines – Manila**
-- 🌱 Currently learning **AWS, cybersecurity, and data engineering**
+### 👩🏻‍💻 a little about me
+
+</div>
+
+> I'm an **Information Technology graduate** interested in the intersection of **data, cloud computing, and IT**.  
+> I enjoy turning information into something useful, solving technical problems, and learning how systems work behind the scenes.
 
 <br>
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+📊  
+**data**
+
+<br>
+
+SQL · Excel  
+Power BI · Tableau
+
+</td>
+
+<td align="center" width="33%">
+
+☁️  
+**cloud**
+
+<br>
+
+AWS  
+Linux · Cloud Computing
+
+</td>
+
+<td align="center" width="33%">
+
+🛠️  
+**it**
+
+<br>
+
+Technical Support  
+QA · Troubleshooting
+
+</td>
+</tr>
+</table>
+
+<br>
 ---
 
 <div align="center">
