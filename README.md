@@ -1,10 +1,18 @@
-# Hi, I'm Andrea! 👋
+<div align="center">
 
-**BS Information Technology | Aspiring Data Analyst | AWS re/Start Scholar**
+# hey, i'm andrea! 👋
 
-I'm an Information Technology graduate building my skills across **data analytics, cloud computing, and IT support**. I enjoy working with data, solving technical problems, and exploring how technology can improve everyday workflows.
+### `data` · `cloud` · `it`
 
----
+BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
+
+</div>
+
+<br>
+
+> i'm interested in turning data into useful insights, solving technical problems, and learning how cloud technologies can support better systems and workflows.
+
+<br>
 
 ## 🧑‍💻 About Me
 
