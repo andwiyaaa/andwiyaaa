@@ -10,11 +10,7 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 
 <br>
 
-> i'm interested in turning data into useful insights, solving technical problems, and learning how cloud technologies can support better systems and workflows.
-
-<br>
-
-## 🧑‍💻 About Me
+> ## 🧑‍💻 About Me
 
 - 📊 Interested in **Data Analytics & Business Intelligence**
 - ☁️ Currently building my foundation in **AWS & Cloud Computing**
@@ -23,7 +19,7 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 - 🎓 BS Information Technology — **Technological University of the Philippines – Manila**
 - 🌱 Currently learning more about **AWS, cybersecurity, and data engineering**
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
