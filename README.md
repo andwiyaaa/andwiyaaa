@@ -21,38 +21,45 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 
 <br>
 
-<div align="center">
-
 ## 🛠️ tech stack
 
 ### 📊 data & analytics
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ### ☁️ cloud & systems
 
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+</p>
 
 ### 💻 development & tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode" />
+</p>
 
-</div>
+<br>
 
+> **tools i use:** SQL · Excel · Power BI · Tableau · AWS · Linux · Git · GitHub · VS Code
 
-## 📚 Currently Learning
+<br>
 
-☁️ **AWS Cloud Computing**  
-🔐 **Cybersecurity**  
-📊 **Data Analytics & Data Engineering**  
-🐧 **Linux & Cloud Infrastructure**
+## 📚 currently learning
 
----
+- ☁️ **AWS Cloud Computing**
+- 🔐 **Cybersecurity**
+- 📊 **Data Analytics & Data Engineering**
+- 🐧 **Linux & Cloud Infrastructure**
 
-## 🚀 Featured Projects
+<br>
+
+## 🚀 featured projects
 
 > More projects coming soon!
 
@@ -62,18 +69,24 @@ My personal portfolio showcasing my background, skills, projects, and experience
 
 🔗 [View Portfolio](https://github.com/andwiyaaa/andrea-portfolio)
 
----
+<br>
 
-## 📈 GitHub Stats
+## 📈 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andwiyaaa&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andwiyaaa&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=andwiyaaa&show_icons=true&theme=transparent&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andwiyaaa&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+  />
 </p>
 
----
+<br>
 
-## 🤝 Let's Connect
+## 🤝 let's connect
 
 <p>
   <a href="https://github.com/andwiyaaa">
@@ -84,8 +97,10 @@ My personal portfolio showcasing my background, skills, projects, and experience
   </a>
 </p>
 
----
+<br>
 
-<p align="center">
-  <i>Always curious. Always building. ☁️📊</i>
-</p>
+<div align="center">
+
+<i>always curious. always building. ☁️📊</i>
+
+</div>
