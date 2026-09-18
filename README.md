@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GitHub-andwiyaaa-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/andreaducosin/">
   <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
