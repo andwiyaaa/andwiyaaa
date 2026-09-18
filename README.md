@@ -20,6 +20,14 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=turning+data+into+insights+%F0%9F%93%8A;learning+cloud+one+service+at+a+time+%E2%98%81%EF%B8%8F;building%2C+learning%2C+and+exploring+%F0%9F%92%BB" alt="Typing animation" />
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
@@ -117,12 +125,16 @@ QA · Troubleshooting
 
 ---
 
+<div align="center">
+
 ## 📚 currently learning
 
-- ☁️ **AWS Cloud Computing**
-- 🔐 **Cybersecurity**
-- 📊 **Data Analytics & Data Engineering**
-- 🐧 **Linux & Cloud Infrastructure**
+☁️ **AWS & Cloud Computing**  
+🔐 **Cybersecurity**  
+📊 **Data Analytics & Data Engineering**  
+🐧 **Linux & Cloud Infrastructure**
+
+</div>
 
 <br>
 
@@ -132,48 +144,11 @@ QA · Troubleshooting
 
 ### 📁 Personal Portfolio
 
-My personal portfolio showcasing my background, skills, projects, and experience.
+A personal portfolio built to showcase my journey across **data, cloud, and IT** — including my skills, projects, experience, and current learning.
+
+**Next.js · React · TypeScript**
 
 🔗 [View Portfolio](https://github.com/andwiyaaa/andrea-portfolio)
-
-### 📊 Data Analytics Projects
-
-Projects focused on **data cleaning, analysis, visualization, and business insights** using tools such as SQL, Excel, Power BI, and Tableau.
-
-> 🚧 More projects coming soon!
-
-### ☁️ AWS & Cloud Projects
-
-Hands-on projects and labs from my **AWS re/Start** journey, covering cloud fundamentals, Linux, AWS services, and cloud infrastructure.
-
-> 🚧 More projects coming soon!
-
-<br>
-
----
-
-## 🎓 education & learning
-
-**Technological University of the Philippines – Manila**  
-BS Information Technology · 2022–2026
-
-**AWS re/Start Digital Academy**  
-Cloud Computing · AWS · Linux · Cloud Foundations
-
-<br>
-
----
-
-## 🤝 let's connect
-
-<p>
-  <a href="https://github.com/andwiyaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <br>
 
@@ -181,10 +156,20 @@ Cloud Computing · AWS · Linux · Cloud Foundations
 
 <div align="center">
 
+## 🤝 let's connect
+
+<p>
+  <a href="https://github.com/andwiyaaa">
+    <img src="https://img.shields.io/badge/GitHub-andwiyaaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
 <i>always curious. always building. ☁️📊</i>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=andwiyaaa&style=flat-square&color=grey" alt="Profile views" />
 
 </div>
