@@ -1,27 +1,64 @@
 <div align="center">
 
+<pre>$ ./profile.sh --live</pre>
+
+<table>
+<tr>
+
+<td width="42%" align="center">
+
 <pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  $ ./profile.sh --live                                       │
-│                                                              │
-│  ┌─────────────────────────┐  ┌───────────────────────────┐  │
-│  │                         │  │  ANDREA DUCOSIN            │  │
-│  │                         │  │  ─────────────────────    │  │
-│  │       /\_/\\             │  │                           │  │
-│  │      ( o.o )             │  │  role      aspiring       │  │
-│  │       > ^ <              │  │            data analyst   │  │
-│  │                         │  │  focus     data · cloud   │  │
-│  │      andwiyaaa          │  │            · IT           │  │
-│  │                         │  │  track     AWS · security │  │
-│  │                         │  │  status    learning      │  │
-│  │                         │  │  location  philippines    │  │
-│  └─────────────────────────┘  └───────────────────────────┘  │
-│                                                              │
-│  [ data ] [ cloud ] [ it ] [ cybersecurity ]                 │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+       .-""""-.
+     .'        '.
+    /   ◕    ◕   \
+   |      ▿       |
+   |    \___/     |
+    \            /
+     '.        .'
+       '-.__.-'
+
+      andwiyaaa
 </pre>
+
+</td>
+
+<td width="58%" align="left">
+
+<pre>
+andrea@github
+────────────────────────────
+
+role      aspiring data analyst
+
+focus     data · cloud · IT
+
+track     AWS · cybersecurity
+
+tools     SQL · Excel · Power BI
+
+learning  AWS · Linux · security
+
+status    online / learning
+
+location  philippines
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<code>[ data ]</code>
+&nbsp;
+<code>[ cloud ]</code>
+&nbsp;
+<code>[ it ]</code>
+&nbsp;
+<code>[ cybersecurity ]</code>
+
+</div>
 
 <br>
 
