@@ -74,6 +74,7 @@ QA · Troubleshooting
 </table>
 
 <br>
+
 ---
 
 <div align="center">
@@ -95,17 +96,22 @@ QA · Troubleshooting
   <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
 </p>
 
-### 💻 development & tools
+### 💻 development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode" />
 </p>
 
+### 🧰 workflow & productivity
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
 </div>
-
-<br>
-
-> **tools i use:** SQL · Excel · Power BI · Tableau · AWS · Linux · Git · GitHub · VS Code
 
 <br>
 
@@ -164,7 +170,7 @@ Cloud Computing · AWS · Linux · Cloud Foundations
   <a href="https://github.com/andwiyaaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/andreaducosin/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
