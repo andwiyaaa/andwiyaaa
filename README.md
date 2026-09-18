@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Andrea! 👋
 
-<!--
-**andwiyaaa/andwiyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS Information Technology | Aspiring Data Analyst | AWS re/Start Scholar**
 
-Here are some ideas to get you started:
+I'm an Information Technology graduate building my skills across **data analytics, cloud computing, and IT support**. I enjoy working with data, solving technical problems, and exploring how technology can improve everyday workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 📊 Interested in **Data Analytics & Business Intelligence**
+- ☁️ Currently building my foundation in **AWS & Cloud Computing**
+- 🛠️ Experienced in **IT support, troubleshooting, and system documentation**
+- 🧪 Familiar with **QA testing, data validation, and software testing**
+- 🎓 BS Information Technology — **Technological University of the Philippines – Manila**
+- 🌱 Currently learning more about **AWS, cybersecurity, and data engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,excel" />
+</p>
+
+**SQL · Excel · Power BI · Tableau**
+
+### ☁️ Cloud & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
+</p>
+
+**AWS · Linux · Git · GitHub**
+
+### 💻 IT & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,vscode" />
+</p>
+
+**Technical Support · Troubleshooting · QA Testing · System Documentation**
+
+---
+
+## 📚 Currently Learning
+
+☁️ **AWS Cloud Computing**  
+🔐 **Cybersecurity**  
+📊 **Data Analytics & Data Engineering**  
+🐧 **Linux & Cloud Infrastructure**
+
+---
+
+## 🚀 Featured Projects
+
+> More projects coming soon!
+
+### 📁 Personal Portfolio
+
+My personal portfolio showcasing my background, skills, projects, and experience.
+
+🔗 [View Portfolio](https://github.com/andwiyaaa/andrea-portfolio)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andwiyaaa&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andwiyaaa&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/andwiyaaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always curious. Always building. ☁️📊</i>
+</p>
