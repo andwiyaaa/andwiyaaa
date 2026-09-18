@@ -21,28 +21,29 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 
 <br>
 
+<br>
+
+<div align="center">
+
 ## 🛠️ tech stack
 
-### 📊 data & analytics
+### data & analytics
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tableau" height="45" alt="Tableau" />
 
-### ☁️ cloud & systems
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
-</p>
+### cloud & development
 
-### 💻 development & tools
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,html,css,js,ts,vscode" height="45" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode" />
-</p>
+</div>
 
 <br>
 
@@ -68,21 +69,6 @@ BS Information Technology · Aspiring Data Analyst · AWS re/Start Scholar
 My personal portfolio showcasing my background, skills, projects, and experience.
 
 🔗 [View Portfolio](https://github.com/andwiyaaa/andrea-portfolio)
-
-<br>
-
-## 📈 github stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=andwiyaaa&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andwiyaaa&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
 
 <br>
 
