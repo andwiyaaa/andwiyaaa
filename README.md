@@ -50,7 +50,7 @@ I enjoy working with data, understanding how systems and workflows connect, trou
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,aws,linux,git,github,vscode" alt="Python, JavaScript, TypeScript, HTML, CSS, AWS, Linux, Git, GitHub and VS Code" />
 
-<br />
+<br /><br />
 
 <img src="https://img.shields.io/badge/SQL-0B1F33?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 &nbsp;
