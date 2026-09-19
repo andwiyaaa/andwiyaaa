@@ -12,7 +12,7 @@
 &nbsp; <a href="https://github.com/andwiyaaa"><img src="https://img.shields.io/badge/GITHUB-andwiyaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp; <a href="mailto:ducosinandrea@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-b89cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br /><br />
+<br />
 
 <code>DATA</code> &nbsp; <code>CLOUD</code> &nbsp; <code>IT SYSTEMS</code>
 
