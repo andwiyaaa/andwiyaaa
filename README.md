@@ -28,6 +28,8 @@
 
 ## `about.me`
 
+</div>
+
 I'm Andrea, an Information Technology graduate from **Technological University of the Philippines – Manila**, building toward a career across **data analytics, systems, and cloud technology**.
 
 I enjoy working with data, understanding how systems and workflows connect, troubleshooting technical problems, and turning what I learn into practical projects.
@@ -46,13 +48,9 @@ I enjoy working with data, understanding how systems and workflows connect, trou
 
 <br />
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,aws,linux,git,github,vscode" alt="Python, JavaScript, TypeScript, HTML, CSS, AWS, Linux, Git, GitHub and VS Code" />
 
-<br />
-
-<div align="center">
+<br /><br />
 
 <img src="https://img.shields.io/badge/SQL-0B1F33?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 &nbsp;
@@ -62,11 +60,15 @@ I enjoy working with data, understanding how systems and workflows connect, trou
 &nbsp;
 <img src="https://img.shields.io/badge/Tableau-0B1F33?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
 
+</div>
+
 ---
 
 <div align="center">
 
 ## `projects`
+
+</div>
 
 ### `Fit.ly Churn Analysis`
 
