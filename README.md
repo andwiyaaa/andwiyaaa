@@ -1,30 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-live.gif" alt="Animated futuristic terminal dashboard showing Andrea Ducosin" width="100%" />
-
-<br />
-
-<img src="assets/headline.gif" alt="Andrea Ducosin — Aspiring Data Analyst — Data Cloud IT" width="760" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/andreaducosin/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://github.com/andwiyaaa"><img src="https://img.shields.io/badge/GITHUB-andwiyaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="mailto:ducosinandrea@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-b89cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br />
-
-<code>DATA</code> &nbsp; <code>CLOUD</code> &nbsp; <code>IT SYSTEMS</code>
+## `about.me`
 
 </div>
-
-<br />
-
----
-
-## `about.me`
 
 I'm Andrea, an Information Technology graduate from **Technological University of the Philippines – Manila**, building toward a career across **data analytics, systems, and cloud technology**.
 
@@ -37,6 +15,8 @@ I enjoy working with data, understanding how systems and workflows connect, trou
 - 💻 Building — data analysis, analytics, and data pipeline projects
 
 ---
+
+<div align="center">
 
 ## `stack.signal`
 
@@ -54,9 +34,15 @@ I enjoy working with data, understanding how systems and workflows connect, trou
 &nbsp;
 <img src="https://img.shields.io/badge/Tableau-0B1F33?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
 
+</div>
+
 ---
 
+<div align="center">
+
 ## `projects`
+
+</div>
 
 ### `Fit.ly Churn Analysis`
 
@@ -111,19 +97,3 @@ Analytics project using synthetic service-desk ticket data to evaluate operation
 **Focus:** Python · Pandas · PostgreSQL · SQL · Analytics
 
 [project](https://github.com/andwiyaaa/andrea-portfolio/tree/main/projects/service-desk-analytics) · [case study](https://andrea-portfolio-andy-f738.vercel.app/work/service-desk)
-
----
-
-## `links`
-
-[portfolio](https://andrea-portfolio-andy-f738.vercel.app/) · [linkedin](https://www.linkedin.com/in/andreaducosin/) · [github](https://github.com/andwiyaaa)
-
-<br />
-
----
-
-<div align="center">
-
-<sub>profile.sh // personal developer operating system<br />UTC+8 · PH NODE · ALL SYSTEMS NOMINAL</sub>
-
-</div>
