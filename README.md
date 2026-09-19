@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<code>DATA</code> &nbsp; <code>CLOUD</code> &nbsp; <code>IT SYSTEMS</code> &nbsp; <code>CYBERSECURITY</code>
+<code>DATA</code> &nbsp; <code>CLOUD</code> &nbsp; <code>IT SYSTEMS</code>
 
 </div>
 
@@ -34,7 +34,6 @@ I enjoy working with data, understanding how systems work, troubleshooting techn
 
 - 📊 Data analytics — SQL, Excel, Power BI, Tableau
 - ☁️ Cloud — AWS and Linux foundations through AWS re/Start
-- 🔐 Cybersecurity — exploring security operations and defensive security
 - 🛠️ IT — technical support, troubleshooting, QA testing, documentation
 - 💻 Building — personal projects and a growing technical portfolio
 
